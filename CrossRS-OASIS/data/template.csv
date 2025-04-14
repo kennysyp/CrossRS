@@ -1,0 +1,13 @@
+img,seg
+/your_path/OASIS_OAS1_0110_MR1/aligned_norm.nii.gz,
+/your_path/OASIS_OAS1_0070_MR1/aligned_norm.nii.gz,
+/your_path/OASIS_OAS1_0083_MR1/aligned_norm.nii.gz,
+/your_path/OASIS_OAS1_0279_MR1/aligned_norm.nii.gz,/your_path/OASIS_OAS1_0279_MR1/aligned_seg35.nii.gz
+/your_path/OASIS_OAS1_0312_MR1/aligned_norm.nii.gz,/your_path/OASIS_OAS1_0312_MR1/aligned_seg35.nii.gz
+/your_path/OASIS_OAS1_0286_MR1/aligned_norm.nii.gz,
+/your_path/OASIS_OAS1_0094_MR1/aligned_norm.nii.gz,
+/your_path/OASIS_OAS1_0053_MR1/aligned_norm.nii.gz,
+/your_path/OASIS_OAS1_0016_MR1/aligned_norm.nii.gz,
+/your_path/OASIS_OAS1_0140_MR1/aligned_norm.nii.gz,
+/your_path/OASIS_OAS1_0129_MR1/aligned_norm.nii.gz,/your_path/OASIS_OAS1_0129_MR1/aligned_seg35.nii.gz
+/your_path/OASIS_OAS1_0098_MR1/aligned_norm.nii.gz,

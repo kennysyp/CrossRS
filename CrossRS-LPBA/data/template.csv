@@ -1,0 +1,13 @@
+img,seg
+/your_path/lpba40/S33.delineation.skullstripped.img.gz,
+/your_path/lpba40/S37.delineation.skullstripped.img.gz,
+/your_path/lpba40/S09.delineation.skullstripped.img.gz,
+/your_path/lpba40/S25.delineation.skullstripped.img.gz,
+/your_path/lpba40/S32.delineation.skullstripped.img.gz,/your_path/lpba40/S32.delineation.structure.label.img.gz
+/your_path/lpba40/S16.delineation.skullstripped.img.gz,/your_path/lpba40/S16.delineation.structure.label.img.gz
+/your_path/lpba40/S35.delineation.skullstripped.img.gz,/your_path/lpba40/S35.delineation.structure.label.img.gz
+/your_path/lpba40/S22.delineation.skullstripped.img.gz,
+/your_path/lpba40/S38.delineation.skullstripped.img.gz,
+/your_path/lpba40/S20.delineation.skullstripped.img.gz,/your_path/lpba40/S20.delineation.structure.label.img.gz
+/your_path/lpba40/S27.delineation.skullstripped.img.gz,
+/your_path/lpba40/S13.delineation.skullstripped.img.gz,
